@@ -1,0 +1,6 @@
+/.idea/
+/.pre-commit-config.yaml
+/myvenv/
+/test/
+/udp_communication/__pycache__/
+/calendar/.idea/
